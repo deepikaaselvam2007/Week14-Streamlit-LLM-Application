@@ -1,0 +1,3 @@
+query,expected_topic
+What is this document about?,Sample RAG project
+How does RAG work?,Retrieval plus language generation
